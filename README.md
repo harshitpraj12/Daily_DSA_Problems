@@ -2,6 +2,12 @@
 
 Daily commit log of data structures and algorithms problems. Tracking my progress, consistency, and problem-solving growth one day at a time.
 
+## 📊 Stats
+
+- **Problems Solved**: 400+
+- **Language**: Java
+- **Commitment**: Daily Problem-Solving
+
 ## Overview
 
 This repository documents my journey through data structures and algorithms (DSA) with daily problem-solving. Each commit represents a step forward in building problem-solving skills and deepening understanding of fundamental CS concepts.

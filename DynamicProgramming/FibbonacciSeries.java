@@ -10,7 +10,7 @@ public class FibbonacciSeries {
 
     public static void main(String[] args) {
         int n = 41;
-        // 0, 1, 1, 2, 3, 5, 8, 13, 21, 44
+        // 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
         int ans = solve(n);
         int res = fibb(n);
         System.out.println("Answer is : "+ ans+" "+ count);

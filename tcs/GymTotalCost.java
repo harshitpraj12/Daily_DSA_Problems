@@ -2,7 +2,7 @@ package tcs;
 
 public class GymTotalCost {
     public static void main(String[] args) {
-        int month = 24;
+        int month = 10;
         int amount = solve(month);
         System.out.println(amount);
     }

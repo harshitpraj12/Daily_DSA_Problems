@@ -42,6 +42,7 @@ public class SuperPalindrom {
                 ans.add(sqr);
             }
         }
+        System.out.println("Total Super Palindrom "+ count);
         return ans;
     }
 

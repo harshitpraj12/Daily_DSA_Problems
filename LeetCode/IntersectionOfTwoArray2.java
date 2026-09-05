@@ -3,11 +3,6 @@ package LeetCode;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Map.Entry;
-
-import org.w3c.dom.Entity;
 
 public class IntersectionOfTwoArray2 {
     public static void main(String[] args) {
